@@ -1,0 +1,26 @@
+RetailerStoreNumber	RetailerVendorId	VendorName	InvoiceDate	FintechProcessDate	InvoiceNumber	GLCode	InvoiceAmount
+11320	GOL018	Gold Coast Eagle Distributing Inc. - Sarasota	8/8/2023	8/9/2023	778326	5670	1069.49
+11320	JJT001	JJ Taylor Distributing - Tampa	8/8/2023	8/9/2023	16651273	5670	806.8
+11320	SOU087	Southern Glazer's Wine & Spirits of FL	8/9/2023	8/9/2023	1828465	5670	1929
+11320	PRE033	Premier Beverage Co.dba Breakthru Beverage Florida	8/9/2023	8/9/2023	111606992	5610	218.5
+11320	PRE033	Premier Beverage Co.dba Breakthru Beverage Florida	8/9/2023	8/9/2023	111606992	5670	371.88
+11320	REP009	Republic National Dist - Tampa	8/9/2023	8/9/2023	6592040	5610	10
+11320	REP009	Republic National Dist - Tampa	8/9/2023	8/9/2023	6592040	5670	300
+11318	JJT001	JJ Taylor Distributing - Tampa	8/8/2023	8/9/2023	16649517	5670	1057.85
+11321	PRE033	Premier Beverage Co.dba Breakthru Beverage Florida	8/9/2023	8/9/2023	111604371	5610	246.5
+11321	PRE033	Premier Beverage Co.dba Breakthru Beverage Florida	8/9/2023	8/9/2023	111604371	5670	342.1
+11321	REP009	Republic National Dist - Tampa	8/9/2023	8/9/2023	6592047	5610	10
+11321	REP009	Republic National Dist - Tampa	8/9/2023	8/9/2023	6592047	5670	456
+10324	TRI001	Tri City Distributors LP	8/8/2023	8/9/2023	514712	5620	445.53
+10324	TRI001	Tri City Distributors LP	8/8/2023	8/9/2023	514712	5610	219.9
+10311	SMI007	Smith Brothers Distributing	8/8/2023	8/9/2023	1111355	5620	380.15
+10311	SMI007	Smith Brothers Distributing	8/8/2023	8/9/2023	1111355	5610	5
+10311	SMI007	Smith Brothers Distributing	8/8/2023	8/9/2023	1111356	5620	0
+10311	SMI007	Smith Brothers Distributing	8/8/2023	8/9/2023	1111356	5610	120
+10310	ANH001	Anheuser-Busch Sales of Tulsa	8/8/2023	8/9/2023	261280	5620	413.6
+11331	REP011	Republic National Dist - Deerfield Bch.	8/9/2023	8/9/2023	5607568	5670	987.08
+11331	DIR007	Direct Int'l Wine & Spirits of Florida dba Mexcor	8/8/2023	8/9/2023	M-2650440	5670	536.4
+11333	JJT001	JJ Taylor Distributing - Tampa	8/8/2023	8/9/2023	16806869	5670	688.8
+11354	LEG008	Legacy Beverage LLC	8/8/2023	8/9/2023	142263	5670	243.6
+1	LEG008	Legacy Beverage LLC	8/8/2023	8/9/2023	142262	Beer	578.8
+1	LEG008	Legacy Beverage LLC	8/8/2023	8/9/2023	142267	Beer	508.95
